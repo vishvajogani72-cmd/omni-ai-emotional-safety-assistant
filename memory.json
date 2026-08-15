@@ -1,0 +1,24 @@
+{
+    "favorite_subject": "physics",
+
+    "favorites": {
+        "song": {
+            "name": "arjit singh Song",
+            "link": "https://www.youtube.com/watch?v=https://youtu.be/Auvd4NPXHnI?si=BSUk7bGVPD3c3JYv"
+        },
+
+        "channel": {
+            "name": "saumya singh Channel",
+            "link": "https://youtube.com/@saumya1singh?si=Kgy6tALHVR5niLHX"
+        },
+
+        "video": {
+            "name": "favorite Video",
+            "link": "https://www.youtube.com/watch?v=https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&si=raTqdblzQlFDLKwa"
+        },
+         "star": {
+            "name": "playlist",
+            "link": "https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&si=raTqdblzQlFDLKwa"
+        }
+    }
+}

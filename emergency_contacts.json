@@ -1,0 +1,17 @@
+{
+"contacts":[
+    
+   { "name": "Mom",
+    "phone": "1111",
+    "priority":1,
+    "enabled": true
+},
+  
+   { "name": "dad",
+    "phone": "2222",
+    "priority":2,
+    "enabled": true
+}
+]
+  
+}
